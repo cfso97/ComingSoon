@@ -2,7 +2,7 @@ body{
     width: 100%;
     height: calc(100vh - 10%);
     margin: 0;
-    font-family: 'Noto Sans SC', sans-serif;
+    font-family: 'Plus Jakarta Sans', sans-serif;
     background-color: black;
     background: url(CommuniTraders-Gradient.png);
     background-size: cover;
